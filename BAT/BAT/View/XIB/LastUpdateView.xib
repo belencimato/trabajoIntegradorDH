@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14490.70" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14490.49"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Bookmania-Bold.otf">
+            <string>Bookmania-Bold</string>
+        </array>
+        <array key="Bookmania-Regular.otf">
+            <string>Bookmania-Regular</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="lNK-w9-Isu" customClass="LastUpdate" customModule="BAT" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="414" height="30"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <stackView opaque="NO" contentMode="scaleToFill" spacing="5" translatesAutoresizingMaskIntoConstraints="NO" id="pj2-iG-edU">
+                    <rect key="frame" x="10" y="4" width="404" height="21"/>
+                    <subviews>
+                        <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="sync-grey" translatesAutoresizingMaskIntoConstraints="NO" id="PJh-ub-B1x">
+                            <rect key="frame" x="0.0" y="0.0" width="13" height="21"/>
+                            <constraints>
+                                <constraint firstAttribute="width" constant="13" id="RoS-ZN-soU"/>
+                            </constraints>
+                        </imageView>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" text="Last Update:" lineBreakMode="tailTruncation" numberOfLines="3" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="evO-gZ-dV4">
+                            <rect key="frame" x="18" y="0.0" width="76" height="21"/>
+                            <constraints>
+                                <constraint firstAttribute="width" constant="76" id="JZO-TS-zo6"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" name="Bookmania-Regular" family="Bookmania" pointSize="13"/>
+                            <color key="textColor" white="0.0" alpha="0.8417433647" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <nil key="highlightedColor"/>
+                            <color key="shadowColor" red="0.0" green="0.0" blue="0.0" alpha="0.049497003424657536" colorSpace="custom" customColorSpace="sRGB"/>
+                            <size key="shadowOffset" width="1" height="1"/>
+                        </label>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" text="27 July 2019" lineBreakMode="tailTruncation" numberOfLines="3" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="xSw-KS-ZI9">
+                            <rect key="frame" x="99" y="0.0" width="305" height="21"/>
+                            <fontDescription key="fontDescription" name="Bookmania-Bold" family="Bookmania" pointSize="13"/>
+                            <color key="textColor" white="0.0" alpha="0.8417433647" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <nil key="highlightedColor"/>
+                            <color key="shadowColor" red="0.0" green="0.0" blue="0.0" alpha="0.049497003424657536" colorSpace="custom" customColorSpace="sRGB"/>
+                            <size key="shadowOffset" width="1" height="1"/>
+                        </label>
+                    </subviews>
+                </stackView>
+            </subviews>
+            <color key="backgroundColor" red="0.91243848857446586" green="0.91894429889874285" blue="0.93846172987157361" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="pj2-iG-edU" firstAttribute="leading" secondItem="e9h-ZL-Hdh" secondAttribute="leading" constant="10" id="37J-RW-mTN"/>
+                <constraint firstItem="pj2-iG-edU" firstAttribute="trailing" secondItem="e9h-ZL-Hdh" secondAttribute="trailing" id="TJ8-au-fXd"/>
+                <constraint firstItem="pj2-iG-edU" firstAttribute="top" secondItem="lNK-w9-Isu" secondAttribute="top" constant="4" id="gqD-jE-Vpy"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <viewLayoutGuide key="safeArea" id="e9h-ZL-Hdh"/>
+            <connections>
+                <outlet property="lastUpdateLabel" destination="xSw-KS-ZI9" id="W8d-UD-Lac"/>
+            </connections>
+            <point key="canvasLocation" x="28.985507246376812" y="22.767857142857142"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="sync-grey" width="21" height="21"/>
+    </resources>
+</document>

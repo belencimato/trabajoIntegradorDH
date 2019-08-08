@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>status</key>
+	<string>ok</string>
+	<key>totalResults</key>
+	<integer>20</integer>
+	<key>articles</key>
+	<array>
+		<dict>
+			<key>content</key>
+			<string>&lt;&lt; este es un campo nuevo, muestra informacion adicional sobre el articulo &gt;&gt;</string>
+			<key>source</key>
+			<dict>
+				<key>id</key>
+				<string>the-new-york-times</string>
+				<key>name</key>
+				<string>The New York Times</string>
+			</dict>
+			<key>author</key>
+			<string>http://www.nytimes.com/by/steve-eder, http://www.nytimes.com/by/eric-lipton, http://www.nytimes.com/by/ben-protess</string>
+			<key>title</key>
+			<string>Trump Discloses Cohen Payment, Raising Questions About Previous Omission</string>
+			<key>description</key>
+			<string>Mr. Trump’s financial disclosure included a payment made to his personal attorney, Michael D. Cohen, who has said he paid a porn star who claimed an affair with Mr. Trump.</string>
+			<key>url</key>
+			<string>https://www.nytimes.com/2018/05/16/us/politics/trump-financial-disclosure.html</string>
+			<key>urlToImage</key>
+			<string>https://static01.nyt.com/images/2018/02/02/business/16DC-TRUMPDISCLOSE-01/02DC-PAYDAY3-facebookJumbo.jpg</string>
+			<key>publishedAt</key>
+			<string>2018-05-16T21:06:12Z</string>
+		</dict>
+		<dict>
+			<key>source</key>
+			<dict>
+				<key>id</key>
+				<string>usa-today</string>
+				<key>name</key>
+				<string>USA Today</string>
+			</dict>
+			<key>content</key>
+			<string>&lt;&lt; este es un campo nuevo, muestra informacion adicional sobre el articulo &gt;&gt;</string>
+			<key>author</key>
+			<string>David Jackson</string>
+			<key>title</key>
+			<string>Donald Trump ponders North Korean threat to cancel Singapore summit with Kim Jong Un</string>
+			<key>description</key>
+			<string>President Donald Trump and aides pondered their response to new North Korean demands that could scuttle the planned summit next month between  Trump and Kim Jong Un.</string>
+			<key>url</key>
+			<string>https://www.usatoday.com/story/news/politics/2018/05/16/donald-trump-ponders-north-korean-threat-cancel-kim-summit/614480002/</string>
+			<key>urlToImage</key>
+			<string>https://www.gannett-cdn.com/-mm-/fb4db209b9040ce349f30b06caae28d6425dce07/c=0-199-3000-1894&amp;r=x1683&amp;c=3200x1680/local/-/media/2018/05/16/USATODAY/USATODAY/636620520395048281-AFP-AFP-VK1ZE-96307421.JPG</string>
+			<key>publishedAt</key>
+			<string>2018-05-16T20:30:19Z</string>
+		</dict>
+		<dict>
+			<key>source</key>
+			<dict>
+				<key>id</key>
+				<string>cnn</string>
+				<key>name</key>
+				<string>CNN</string>
+			</dict>
+			<key>content</key>
+			<string>&lt;&lt; este es un campo nuevo, muestra informacion adicional sobre el articulo &gt;&gt;</string>
+			<key>author</key>
+			<string>Jeremy Diamond and Kara Scannell, CNN</string>
+			<key>title</key>
+			<string>Documents show Trump lawyers&apos; scramble behind June 2016 meeting fallout</string>
+			<key>description</key>
+			<string>More than a month before the public learned of the now-infamous 2016 Trump Tower meeting, the Trump Organization&apos;s top lawyer was already furiously working to piece together a complete account of the meeting and its participants.</string>
+			<key>url</key>
+			<string>https://www.cnn.com/2018/05/16/politics/trump-tower-meeting-response/index.html</string>
+			<key>urlToImage</key>
+			<string>https://cdn.cnn.com/cnnnext/dam/assets/180516134417-01-trump-tower-new-york-file-restricted-super-tease.jpg</string>
+			<key>publishedAt</key>
+			<string>2018-05-16T20:20:00Z</string>
+		</dict>
+		<dict>
+			<key>source</key>
+			<dict>
+				<key>id</key>
+				<string></string>
+				<key>name</key>
+				<string>Nbcconnecticut.com</string>
+			</dict>
+			<key>content</key>
+			<string>&lt;&lt; este es un campo nuevo, muestra informacion adicional sobre el articulo &gt;&gt;</string>
+			<key>author</key>
+			<string></string>
+			<key>title</key>
+			<string>2 Dead, Power Out for Thousands After Powerful Storms</string>
+			<key>description</key>
+			<string>State officials are evaluating the damage from the deadly storms yesterday as work begins to recover from widespread damage.</string>
+			<key>url</key>
+			<string>https://www.nbcconnecticut.com/news/local/Severe-Storms-Leave-Damage-Across-Connecticut-482728561.html</string>
+			<key>urlToImage</key>
+			<string>https://media.nbcconnecticut.com/images/1200*675/storm+damage+in+Hamden.JPG</string>
+			<key>publishedAt</key>
+			<string>2018-05-16T20:08:49Z</string>
+		</dict>
+		<dict>
+			<key>source</key>
+			<dict>
+				<key>id</key>
+				<string>the-washington-post</string>
+				<key>name</key>
+				<string>The Washington Post</string>
+			</dict>
+			<key>content</key>
+			<string>&lt;&lt; este es un campo nuevo, muestra informacion adicional sobre el articulo &gt;&gt;</string>
+			<key>author</key>
+			<string></string>
+			<key>title</key>
+			<string>Russian firm tied to Putin ally, charged in 2016 trolling campaign, clashes with Mueller probe</string>
+			<key>description</key>
+			<string>Hearing in U.S. court hints at scorched-earth defense that could test special counsel prosecutors</string>
+			<key>url</key>
+			<string>https://www.washingtonpost.com/local/public-safety/russian-firm-tied-to-putin-ally-charged-in-2016-trolling-campaign-clashes-with-mueller-probe/2018/05/16/1365ccc0-586c-11e8-b656-a5f8c2a9295d_story.html</string>
+			<key>urlToImage</key>
+			<string>https://www.washingtonpost.com/rf/image_1484w/2010-2019/WashingtonPost/2018/05/01/Editorial-Opinion/Images/2018-05-01T155319Z_461756602_RC14A04428E0_RTRMADP_3_USA-TRUMP-RUSSIA-QUESTIONS.jpg?t=20170517</string>
+			<key>publishedAt</key>
+			<string>2018-05-16T20:07:30Z</string>
+		</dict>
+		<dict>
+			<key>source</key>
+			<dict>
+				<key>id</key>
+				<string>the-washington-post</string>
+				<key>name</key>
+				<string>The Washington Post</string>
+			</dict>
+			<key>content</key>
+			<string>&lt;&lt; este es un campo nuevo, muestra informacion adicional sobre el articulo &gt;&gt;</string>
+			<key>author</key>
+			<string>https://www.facebook.com/brian.d.fung</string>
+			<key>title</key>
+			<string>Senate approves bipartisan resolution to restore FCC net neutrality rules</string>
+			<key>description</key>
+			<string>Senate Democrats have been pushing for a vote to try to restore net neutrality rules. It&apos;s finally arrived.</string>
+			<key>url</key>
+			<string>https://www.washingtonpost.com/news/the-switch/wp/2018/05/16/net-neutrality-is-getting-a-big-vote-in-the-senate-today-heres-what-to-expect/</string>
+			<key>urlToImage</key>
+			<string>https://www.washingtonpost.com/resizer/7-F8cxRMRcAt-hNX5eK3Vrw7M6Q=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CT5OQIFYWI3RLMBR7I4UDSRR3Y.jpg</string>
+			<key>publishedAt</key>
+			<string>2018-05-16T20:03:45Z</string>
+		</dict>
+		<dict>
+			<key>source</key>
+			<dict>
+				<key>id</key>
+				<string>the-wall-street-journal</string>
+				<key>name</key>
+				<string>The Wall Street Journal</string>
+			</dict>
+			<key>content</key>
+			<string>&lt;&lt; este es un campo nuevo, muestra informacion adicional sobre el articulo &gt;&gt;</string>
+			<key>author</key>
+			<string>Jenny Gross</string>
+			<key>title</key>
+			<string>Prince Harry and Meghan Markle&apos;s Royal Wedding Isn&apos;t Just a Modern Love Story. It Marks a More Modern Monarchy</string>
+			<key>description</key>
+			<string>When Prince Harry marries American actress Meghan Markle in a pomp-filled ceremony, it will mark a giant step in the modernization of the British monarchy.</string>
+			<key>url</key>
+			<string>https://www.wsj.com/articles/prince-harry-and-meghan-markles-royal-wedding-isnt-just-a-modern-love-story-it-marks-a-more-modern-monarchy-1526500955</string>
+			<key>urlToImage</key>
+			<string>https://si.wsj.net/public/resources/images/B3-AL521_UKROYA_SOC_20180516143152.jpg</string>
+			<key>publishedAt</key>
+			<string>2018-05-16T20:03:00Z</string>
+		</dict>
+		<dict>
+			<key>source</key>
+			<dict>
+				<key>id</key>
+				<string></string>
+				<key>name</key>
+				<string>Eater.com</string>
+			</dict>
+			<key>content</key>
+			<string>&lt;&lt; este es un campo nuevo, muestra informacion adicional sobre el articulo &gt;&gt;</string>
+			<key>author</key>
+			<string>Stefanie Tuder</string>
+			<key>title</key>
+			<string>Man Screams at Spanish-Speaking Restaurant Staff to &apos;Speak English&apos; in Viral Video [Updated]</string>
+			<key>description</key>
+			<string>It happened at Fresh Kitchen in Midtown East</string>
+			<key>url</key>
+			<string>https://ny.eater.com/2018/5/16/17361538/fresh-kitchen-video-midtown-racist</string>
+			<key>urlToImage</key>
+			<string>https://cdn.vox-cdn.com/thumbor/evmunW8OEJG5jyuKlMlplnnuePM=/0x0:1066x558/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/10851291/Screen_Shot_2018_05_16_at_1.26.05_PM.png</string>
+			<key>publishedAt</key>
+			<string>2018-05-16T19:49:25Z</string>
+		</dict>
+		<dict>
+			<key>source</key>
+			<dict>
+				<key>id</key>
+				<string></string>
+				<key>name</key>
+				<string>Nbcphiladelphia.com</string>
+			</dict>
+			<key>content</key>
+			<string>&lt;&lt; este es un campo nuevo, muestra informacion adicional sobre el articulo &gt;&gt;</string>
+			<key>author</key>
+			<string>Alicia Victoria Lozano, Deanna Durante</string>
+			<key>title</key>
+			<string>In Their Own Words: Bucks County Killers Cosmo DiNardo, Sean Kratz&apos;s Confession Recordings</string>
+			<key>description</key>
+			<string>In confession tapes obtained exclusively by NBC10, Cosmo DiNardo and his cousin Sean Kratz detail the gruesome murders of four men in Bucks County.</string>
+			<key>url</key>
+			<string>https://www.nbcphiladelphia.com/news/local/In-Their-Own-Words-Bucks-County-Killers-Cosmo-DiNardo-Sean-Kratz-Confession-Tapes-Recordings-Murders--482717101.html</string>
+			<key>urlToImage</key>
+			<string>https://media.nbcphiladelphia.com/images/1200*675/AP_17195453383371.jpg</string>
+			<key>publishedAt</key>
+			<string>2018-05-16T19:46:42Z</string>
+		</dict>
+		<dict>
+			<key>source</key>
+			<dict>
+				<key>id</key>
+				<string></string>
+				<key>name</key>
+				<string>Latimes.com</string>
+			</dict>
+			<key>content</key>
+			<string>&lt;&lt; este es un campo nuevo, muestra informacion adicional sobre el articulo &gt;&gt;</string>
+			<key>author</key>
+			<string>Richard Winton, Anh Do, Javier Panzar, Joseph Serna</string>
+			<key>title</key>
+			<string>&apos;We do not believe this was an accident&apos;: Deadly explosion in Aliso Viejo linked to suspicious device</string>
+			<key>description</key>
+			<string>An explosion that killed a woman and injured several others at an Aliso Viejo medical office building Tuesday afternoon likely came from a package and appears suspicious, law enforcement sources told The Times.</string>
+			<key>url</key>
+			<string>http://www.latimes.com/local/lanow/la-me-aliso-viejo-blast-20180516-story.html</string>
+			<key>urlToImage</key>
+			<string>http://www.latimes.com/resizer/R5FUKq9m0twqgI8x3zhmZ9hhdRY=/1200x0/www.trbimg.com/img-5afc9419/turbine/la-me-aliso-viejo-blast-20180516</string>
+			<key>publishedAt</key>
+			<string>2018-05-16T19:29:34Z</string>
+		</dict>
+		<dict>
+			<key>source</key>
+			<dict>
+				<key>id</key>
+				<string></string>
+				<key>name</key>
+				<string>Star-telegram.com</string>
+			</dict>
+			<key>content</key>
+			<string>&lt;&lt; este es un campo nuevo, muestra informacion adicional sobre el articulo &gt;&gt;</string>
+			<key>author</key>
+			<string>Stephen English</string>
+			<key>title</key>
+			<string>5 found shot dead at Ponder home in murder-suicide</string>
+			<key>description</key>
+			<string>The bodies of five people were found shot to death Wednesday morning at a Ponder home, according to news reports.</string>
+			<key>url</key>
+			<string>http://www.star-telegram.com/news/state/texas/article211250884.html</string>
+			<key>urlToImage</key>
+			<string>https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998025001/9c32c715-a92f-4f1d-b1bd-dc2cd16d4c04/965d9ec4-b0d1-44bf-b09d-777f99fafcf4/1280x720/match/image.jpg</string>
+			<key>publishedAt</key>
+			<string>2018-05-16T19:13:58Z</string>
+		</dict>
+		<dict>
+			<key>source</key>
+			<dict>
+				<key>id</key>
+				<string>business-insider</string>
+				<key>name</key>
+				<string>Business Insider</string>
+			</dict>
+			<key>content</key>
+			<string>&lt;&lt; este es un campo nuevo, muestra informacion adicional sobre el articulo &gt;&gt;</string>
+			<key>author</key>
+			<string>Jeremy Berke</string>
+			<key>title</key>
+			<string>Before-and-after photos show the destruction from the ongoing volcanic eruptions in Hawaii</string>
+			<key>description</key>
+			<string>The ongoing volcanic eruptions on Hawaii&apos;s Big Island have caused major damage to residential neighborhoods surrounding the Kilauea volcano. Satellite images fr</string>
+			<key>url</key>
+			<string>http://www.businessinsider.com/hawaii-volcano-before-and-after-photos-2018-5</string>
+			<key>urlToImage</key>
+			<string>http://static.businessinsider.com/image/5afc80d535c7eb2d008b4c83-750.jpg</string>
+			<key>publishedAt</key>
+			<string>2018-05-16T19:10:29Z</string>
+		</dict>
+		<dict>
+			<key>source</key>
+			<dict>
+				<key>id</key>
+				<string>the-wall-street-journal</string>
+				<key>name</key>
+				<string>The Wall Street Journal</string>
+			</dict>
+			<key>content</key>
+			<string>&lt;&lt; este es un campo nuevo, muestra informacion adicional sobre el articulo &gt;&gt;</string>
+			<key>author</key>
+			<string>Valerie Bauerlein</string>
+			<key>title</key>
+			<string>North Carolina Teachers Protest, Exposing a Rural-Urban Divide</string>
+			<key>description</key>
+			<string>Roughly two-thirds of North Carolina’s children were out of school Wednesday as thousands of teachers marched on the state Capitol in support of increased school funding.</string>
+			<key>url</key>
+			<string>https://www.wsj.com/articles/in-north-carolina-teacher-protest-exposes-rural-urban-divide-1526463000</string>
+			<key>urlToImage</key>
+			<string>https://images.wsj.net/im-10816/social</string>
+			<key>publishedAt</key>
+			<string>2018-05-16T19:10:00Z</string>
+		</dict>
+		<dict>
+			<key>source</key>
+			<dict>
+				<key>id</key>
+				<string>cnn</string>
+				<key>name</key>
+				<string>CNN</string>
+			</dict>
+			<key>content</key>
+			<string>&lt;&lt; este es un campo nuevo, muestra informacion adicional sobre el articulo &gt;&gt;</string>
+			<key>author</key>
+			<string>Analysis by Chris Cillizza, CNN Editor-at-large</string>
+			<key>title</key>
+			<string>Rex Tillerson just majorly trolled Donald Trump</string>
+			<key>description</key>
+			<string>Rex Tillerson may be gone, but he hasn&apos;t forgotten.</string>
+			<key>url</key>
+			<string>https://www.cnn.com/2018/05/16/politics/tillerson-trump-truth/index.html</string>
+			<key>urlToImage</key>
+			<string>https://cdn.cnn.com/cnnnext/dam/assets/180313091151-09-rex-tillerson-lead-image-super-tease.jpg</string>
+			<key>publishedAt</key>
+			<string>2018-05-16T18:31:06Z</string>
+		</dict>
+		<dict>
+			<key>source</key>
+			<dict>
+				<key>id</key>
+				<string></string>
+				<key>name</key>
+				<string>Chicagotribune.com</string>
+			</dict>
+			<key>content</key>
+			<string>&lt;&lt; este es un campo nuevo, muestra informacion adicional sobre el articulo &gt;&gt;</string>
+			<key>author</key>
+			<string>Matthew Walberg</string>
+			<key>title</key>
+			<string>&apos;Things could have gone much worse&apos;: Ex-student shot by officer during gunfire exchange at Dixon High School</string>
+			<key>description</key>
+			<string>Officials say a police officer working at Dixon High School shot and wounded a former student who fired a gun at him.</string>
+			<key>url</key>
+			<string>http://www.chicagotribune.com/news/local/breaking/ct-met-dixon-school-shooting-20180516-story.html</string>
+			<key>urlToImage</key>
+			<string>http://www.trbimg.com/img-5afc97d4/turbine/ct-met-dixon-school-shooting-20180516</string>
+			<key>publishedAt</key>
+			<string>2018-05-16T18:30:47Z</string>
+		</dict>
+		<dict>
+			<key>source</key>
+			<dict>
+				<key>id</key>
+				<string>the-wall-street-journal</string>
+				<key>name</key>
+				<string>The Wall Street Journal</string>
+			</dict>
+			<key>content</key>
+			<string>&lt;&lt; este es un campo nuevo, muestra informacion adicional sobre el articulo &gt;&gt;</string>
+			<key>author</key>
+			<string>Douglas Belkin</string>
+			<key>title</key>
+			<string>Michigan State to Pay Victims of Larry Nassar Abuse $500 Million</string>
+			<key>description</key>
+			<string>Michigan State University has reached a settlement for $500 million with 332 victims of sexual abuse by former sports medicine doctor Larry Nassar. He also worked for the U.S. women’s gymnastics team.</string>
+			<key>url</key>
+			<string>https://www.wsj.com/articles/michigan-state-to-pay-victims-of-larry-nassar-abuse-500-million-1526487015</string>
+			<key>urlToImage</key>
+			<string>https://images.wsj.net/im-10819/social</string>
+			<key>publishedAt</key>
+			<string>2018-05-16T18:25:00Z</string>
+		</dict>
+		<dict>
+			<key>source</key>
+			<dict>
+				<key>id</key>
+				<string></string>
+				<key>name</key>
+				<string>Cbslocal.com</string>
+			</dict>
+			<key>content</key>
+			<string>&lt;&lt; este es un campo nuevo, muestra informacion adicional sobre el articulo &gt;&gt;</string>
+			<key>author</key>
+			<string>CBSDenver</string>
+			<key>title</key>
+			<string>Photos Of Kent State Grad Wearing AR-10 Go Viral</string>
+			<key>description</key>
+			<string>Kaitlin Bennett shared photos of herself wearing an AR-10 rifle strapped to her back and her graduation cap in hand.</string>
+			<key>url</key>
+			<string>http://denver.cbslocal.com/2018/05/16/kent-state-grad-ar-10/</string>
+			<key>urlToImage</key>
+			<string>https://cbsdenver.files.wordpress.com/2018/05/kent-state-featured.jpg?w=1500</string>
+			<key>publishedAt</key>
+			<string>2018-05-16T18:16:00Z</string>
+		</dict>
+		<dict>
+			<key>source</key>
+			<dict>
+				<key>id</key>
+				<string></string>
+				<key>name</key>
+				<string>Nj.com</string>
+			</dict>
+			<key>content</key>
+			<string>&lt;&lt; este es un campo nuevo, muestra informacion adicional sobre el articulo &gt;&gt;</string>
+			<key>author</key>
+			<string>Len Melisurgo | NJ Advance Media for NJ.com</string>
+			<key>title</key>
+			<string>Did a tsunami really hit NJ during Tuesday&apos;s monster thunderstorms?</string>
+			<key>description</key>
+			<string>Weather officials say water levels in Atlantic City quickly dropped and rose during the powerful thunderstorms. Was it a rare meteotsunami?</string>
+			<key>url</key>
+			<string>http://www.nj.com/weather/index.ssf/2018/05/rare_tsunami_hits_nj_jersey_shore_meteotsunami_con.html</string>
+			<key>urlToImage</key>
+			<string>https://image.nj.com/home/njo-media/width620/img/new-jersey-weather/photo/24492209-standard.jpg</string>
+			<key>publishedAt</key>
+			<string>2018-05-16T16:36:04Z</string>
+		</dict>
+		<dict>
+			<key>source</key>
+			<dict>
+				<key>id</key>
+				<string>fox-news</string>
+				<key>name</key>
+				<string>Fox News</string>
+			</dict>
+			<key>content</key>
+			<string>&lt;&lt; este es un campo nuevo, muestra informacion adicional sobre el articulo &gt;&gt;</string>
+			<key>author</key>
+			<string>Alexandria Hein</string>
+			<key>title</key>
+			<string>Man dies of &apos;projectile wound of the head&apos; after vape pen explodes</string>
+			<key>description</key>
+			<string>A 38-year-old Florida man was killed when the vape pen he was using exploded, launching two pieces of the of the object into his head.</string>
+			<key>url</key>
+			<string>http://www.foxnews.com/health/2018/05/16/man-dies-projectile-wound-head-after-vape-pen-explodes.html</string>
+			<key>urlToImage</key>
+			<string>http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/05/16/0/0/694940094001_5785684378001_5785676815001-vs.jpg?ve=1</string>
+			<key>publishedAt</key>
+			<string>2018-05-16T16:32:13Z</string>
+		</dict>
+		<dict>
+			<key>source</key>
+			<dict>
+				<key>id</key>
+				<string></string>
+				<key>name</key>
+				<string>Latimes.com</string>
+			</dict>
+			<key>content</key>
+			<string>&lt;&lt; este es un campo nuevo, muestra informacion adicional sobre el articulo &gt;&gt;</string>
+			<key>author</key>
+			<string>Noah Bierman</string>
+			<key>title</key>
+			<string>Trump to host Californians critical of state&apos;s immigration policies at White House</string>
+			<key>description</key>
+			<string>Trump meets with some conservative California mayors and officials who oppose the state&apos;s sanctuary law.</string>
+			<key>url</key>
+			<string>http://www.latimes.com/politics/la-na-pol-sanctuary-trump-california-20180516-story.html</string>
+			<key>urlToImage</key>
+			<string>http://www.latimes.com/resizer/Qo15wv43eAbWMetuVLVJ6tV7AbQ=/1200x0/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/UWOGMIB4BNDAPJCHDTI2LXIYQQ.jpg</string>
+			<key>publishedAt</key>
+			<string>2018-05-16T16:00:38Z</string>
+		</dict>
+	</array>
+</dict>
+</plist>

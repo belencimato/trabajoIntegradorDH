@@ -1,0 +1,111 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "5L0-Oi-0Cq"; */
+"5L0-Oi-0Cq.text" = "Label";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque interdum nunc sed turpis placerat efficitur. Nunc tristique ex ut gravida porttitor. Ut in nibh lobortis, finibus tellus sed, mollis tortor. Pellentesque et iaculis leo. Maecenas quis felis vel turpis faucibus Suspendisse lorem leo, blandit eget congue nec, accumsan ac elit. Aenean lacinia nulla vulputate felis egestas tempor. Curabitur dignissim ex ornare massa tempor faucibus. Nunc in mauris egestas, efficitur sapien vitae, luctus elit.\n\nQuisque urna turpis, mollis in molestie non, vestibulum at ligula. Etiam quis orci laoreet velit feugiat vehicula eget quis magna. Ut molestie, diam quis suscipit congue, orci lectus condimentum orci, et auctor ante urna dapibus eros. Aliquam suscipit nibh a ipsum efficitur gravida in eget elit. Donec semper rutrum ligula quis pellentesque. Etiam porta odio vel semper mattis. Vestibulum pulvinar gravida dui id varius.\n\nAliquam id porttitor lacus. Etiam dolor dui, placerat id imperdiet a, vulputate in risus. Donec convallis justo ut euismod ornare. Vestibulum nec turpis vel augue faucibus commodo. Ut arcu velit, aliquet non placerat ut, vehicula nec leo. Fusce ac lorem consectetur, tempor metus non, lacinia lacus. Fusce lorem dolor, maximus id purus eget, dignissim dapibus nibh. Curabitur nunc diam, dictum sed consectetur in, aliquam at massa. Pellentesque tincidunt purus non tempor commodo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sollicitudin varius purus, et mattis libero consectetur finibus. Morbi pharetra fringilla viverra. Quisque iaculis lacinia nulla, non congue erat tristique sit amet. Phasellus vehicula libero et neque fringilla, sed aliquam dui viverra. Duis vitae molestie arcu, at accumsan erat."; ObjectID = "6nV-2e-Esc"; */
+"6nV-2e-Esc.text" = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque interdum nunc sed turpis placerat efficitur. Nunc tristique ex ut gravida porttitor. Ut in nibh lobortis, finibus tellus sed, mollis tortor. Pellentesque et iaculis leo. Maecenas quis felis vel turpis faucibus Suspendisse lorem leo, blandit eget congue nec, accumsan ac elit. Aenean lacinia nulla vulputate felis egestas tempor. Curabitur dignissim ex ornare massa tempor faucibus. Nunc in mauris egestas, efficitur sapien vitae, luctus elit.\n\nQuisque urna turpis, mollis in molestie non, vestibulum at ligula. Etiam quis orci laoreet velit feugiat vehicula eget quis magna. Ut molestie, diam quis suscipit congue, orci lectus condimentum orci, et auctor ante urna dapibus eros. Aliquam suscipit nibh a ipsum efficitur gravida in eget elit. Donec semper rutrum ligula quis pellentesque. Etiam porta odio vel semper mattis. Vestibulum pulvinar gravida dui id varius.\n\nAliquam id porttitor lacus. Etiam dolor dui, placerat id imperdiet a, vulputate in risus. Donec convallis justo ut euismod ornare. Vestibulum nec turpis vel augue faucibus commodo. Ut arcu velit, aliquet non placerat ut, vehicula nec leo. Fusce ac lorem consectetur, tempor metus non, lacinia lacus. Fusce lorem dolor, maximus id purus eget, dignissim dapibus nibh. Curabitur nunc diam, dictum sed consectetur in, aliquam at massa. Pellentesque tincidunt purus non tempor commodo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sollicitudin varius purus, et mattis libero consectetur finibus. Morbi pharetra fringilla viverra. Quisque iaculis lacinia nulla, non congue erat tristique sit amet. Phasellus vehicula libero et neque fringilla, sed aliquam dui viverra. Duis vitae molestie arcu, at accumsan erat.";
+
+/* Class = "UILabel"; text = "Lista de notificaciones"; ObjectID = "7tl-Pf-AuM"; */
+"7tl-Pf-AuM.text" = "Lista de notificaciones";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "8lh-m8-Ppj"; */
+"8lh-m8-Ppj.normalTitle" = "Save";
+
+/* Class = "UILabel"; text = "Show only articles of source:"; ObjectID = "LPM-3P-ho2"; */
+"LPM-3P-ho2.text" = "Show only articles of source:";
+
+/* Class = "UILabel"; text = "Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum"; ObjectID = "LSG-4Z-Idb"; */
+"LSG-4Z-Idb.text" = "Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum";
+
+/* Class = "UILabel"; text = "Source"; ObjectID = "LVy-O6-5yh"; */
+"LVy-O6-5yh.text" = "Source";
+
+/* Class = "UILabel"; text = "UPS!"; ObjectID = "NKY-0k-kNF"; */
+"NKY-0k-kNF.text" = "UPS!";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "NdL-GK-EHe"; */
+"NdL-GK-EHe.text" = "Description";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "Opm-L0-Lph"; */
+"Opm-L0-Lph.text" = "Date";
+
+/* Class = "UIButton"; normalTitle = "Follow"; ObjectID = "RkR-C3-Yts"; */
+"RkR-C3-Yts.normalTitle" = "Follow";
+
+/* Class = "UILabel"; text = "Tus intereses."; ObjectID = "S5L-2s-iTG"; */
+"S5L-2s-iTG.text" = "Tus intereses.";
+
+/* Class = "UILabel"; text = "Titulo del articulo"; ObjectID = "UVQ-D1-3m3"; */
+"UVQ-D1-3m3.text" = "Titulo del articulo";
+
+/* Class = "UILabel"; text = "SUGERENCIAS"; ObjectID = "ZKo-dH-f50"; */
+"ZKo-dH-f50.text" = "SUGERENCIAS";
+
+/* Class = "UIButton"; normalTitle = "Cerrar Sesión"; ObjectID = "aeD-2H-IDv"; */
+"aeD-2H-IDv.normalTitle" = "Cerrar Sesión";
+
+/* Class = "UINavigationItem"; title = "Title"; ObjectID = "cOp-lQ-yt8"; */
+"cOp-lQ-yt8.title" = "Title";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "dyY-az-Y4p"; */
+"dyY-az-Y4p.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "te gustaría ver en esta sección"; ObjectID = "fzx-cU-lTs"; */
+"fzx-cU-lTs.text" = "te gustaría ver en esta sección";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "gNY-nf-cxb"; */
+"gNY-nf-cxb.text" = "Title";
+
+/* Class = "UILabel"; text = "Filter"; ObjectID = "gQ8-qX-qBB"; */
+"gQ8-qX-qBB.text" = "Filter";
+
+/* Class = "UIButton"; normalTitle = "Volver a las Noticias"; ObjectID = "je8-5E-vaK"; */
+"je8-5E-vaK.normalTitle" = "Volver a las Noticias";
+
+/* Class = "UILabel"; text = "Tipo de Sugerencia"; ObjectID = "jkM-55-SwM"; */
+"jkM-55-SwM.text" = "Tipo de Sugerencia";
+
+/* Class = "UILabel"; text = "Hacé una selección de lo que más"; ObjectID = "kS2-mo-AEG"; */
+"kS2-mo-AEG.text" = "Hacé una selección de lo que más";
+
+/* Class = "UILabel"; text = "pensada para vos."; ObjectID = "krf-v1-Mhu"; */
+"krf-v1-Mhu.text" = "pensada para vos.";
+
+/* Class = "UILabel"; text = "Diarios disponibles"; ObjectID = "l08-Py-Pso"; */
+"l08-Py-Pso.text" = "Diarios disponibles";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "mvB-j6-YbJ"; */
+"mvB-j6-YbJ.text" = "Title";
+
+/* Class = "UILabel"; text = "No haz iniciado sesión todavía"; ObjectID = "oKX-35-wdi"; */
+"oKX-35-wdi.text" = "No haz iniciado sesión todavía";
+
+/* Class = "UIButton"; normalTitle = "Iniciar sesión"; ObjectID = "pDP-1r-diq"; */
+"pDP-1r-diq.normalTitle" = "Iniciar sesión";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "s49-rz-3Ic"; */
+"s49-rz-3Ic.text" = "Label";
+
+/* Class = "UINavigationController"; title = "For me"; ObjectID = "sJj-uO-WW4"; */
+"sJj-uO-WW4.title" = "For me";
+
+/* Class = "UILabel"; text = "Titular"; ObjectID = "tod-rQ-usB"; */
+"tod-rQ-usB.text" = "Titular";
+
+/* Class = "UIBarButtonItem"; title = "filters-ic"; ObjectID = "uVw-YV-Phb"; */
+"uVw-YV-Phb.title" = "filters-ic";
+
+/* Class = "UILabel"; text = "Today, 15:30hs"; ObjectID = "wrS-Hl-l8a"; */
+"wrS-Hl-l8a.text" = "Today, 15:30hs";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "yCo-py-3HC"; */
+"yCo-py-3HC.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Section:"; ObjectID = "yEU-GM-pQ5"; */
+"yEU-GM-pQ5.text" = "Section:";
+
+/* Class = "UINavigationController"; title = "Home"; ObjectID = "yhK-rt-cul"; */
+"yhK-rt-cul.title" = "Home";
+
+/* Class = "UILabel"; text = "Fuente "; ObjectID = "ymk-qi-wuy"; */
+"ymk-qi-wuy.text" = "Fuente ";

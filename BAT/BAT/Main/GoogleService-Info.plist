@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>834413449801-vpikllo9gprdjkbn8tojh9k8oslfcm7b.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.834413449801-vpikllo9gprdjkbn8tojh9k8oslfcm7b</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCe8hZzxfCa2U_bxBjM_VFa8m2Mh-YxfL4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>834413449801</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.BAT.BAT</string>
+	<key>PROJECT_ID</key>
+	<string>batapp-f56f6</string>
+	<key>STORAGE_BUCKET</key>
+	<string>batapp-f56f6.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:834413449801:ios:7831a9f9b4c20aae</string>
+	<key>DATABASE_URL</key>
+	<string>https://batapp-f56f6.firebaseio.com</string>
+</dict>
+</plist>
